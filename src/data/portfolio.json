@@ -1,0 +1,203 @@
+{
+    "hero": {
+        "name": "Cat Vy",
+        "title": "AI Product Owner",
+        "subtitle": "I'm an AI Product Owner who loves building practical systems with GenAI, LLMs and elegant UX.",
+        "tags": [
+            "AI Product Owner",
+            "GenAI Enthusiast",
+            "System Designer",
+            "LLM Evangelist"
+        ],
+        "avatar": "../src/assets/image.png",
+        "cta": {
+            "label": "Explore My Projects →",
+            "link": "/projects"
+        }
+    },
+    "highlights": [
+        {
+            "icon": "💡",
+            "title": "What I Do",
+            "description": "Design AI-first product strategies, plan user flows, and define system behaviors across microservices."
+        },
+        {
+            "icon": "🛠️",
+            "title": "What I Build",
+            "description": "End-to-end LLM systems, multi-agent frameworks, and tools that empower humans to build faster."
+        },
+        {
+            "icon": "✍️",
+            "title": "What I Write",
+            "description": "Blog posts on AI ethics, product discovery, system design, and prompt engineering best practices."
+        }
+    ],
+    "clock": {
+        "timezone": "Asia/Saigon",
+        "show": true
+    },
+    "projects": [
+        {
+            "title": "Smart Agent Orchestrator",
+            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
+            "stack": [
+                "LangChain",
+                "FastAPI",
+                "Redis"
+            ],
+            "img": "/assets/project-agent.png",
+            "link": "https://github.com/catvy/smart-orchestrator"
+        },
+        {
+            "title": "Voice-to-Doc",
+            "description": "Speech-to-text system for meeting transcription and summarization.",
+            "stack": [
+                "Whisper",
+                "Streamlit",
+                "Claude"
+            ],
+            "img": "/assets/voice-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc"
+        },
+        {
+            "title": "Prompt Pro Studio",
+            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
+            "stack": [
+                "LangChain",
+                "RAG",
+                "Supabase"
+            ],
+            "img": "/assets/prompt-pro.png"
+        },
+        {
+            "title": "Smart Agent Orchestrator",
+            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
+            "stack": [
+                "LangChain",
+                "FastAPI",
+                "Redis"
+            ],
+            "img": "/assets/project-agent.png",
+            "link": "https://github.com/catvy/smart-orchestrator"
+        },
+        {
+            "title": "Voice-to-Doc",
+            "description": "Speech-to-text system for meeting transcription and summarization.",
+            "stack": [
+                "Whisper",
+                "Streamlit",
+                "Claude"
+            ],
+            "img": "/assets/voice-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc"
+        },
+        {
+            "title": "Prompt Pro Studio",
+            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
+            "stack": [
+                "LangChain",
+                "RAG",
+                "Supabase"
+            ],
+            "img": "/assets/prompt-pro.png"
+        },
+        {
+            "title": "Smart Agent Orchestrator",
+            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
+            "stack": [
+                "LangChain",
+                "FastAPI",
+                "Redis"
+            ],
+            "img": "/assets/project-agent.png",
+            "link": "https://github.com/catvy/smart-orchestrator"
+        },
+        {
+            "title": "Voice-to-Doc",
+            "description": "Speech-to-text system for meeting transcription and summarization.",
+            "stack": [
+                "Whisper",
+                "Streamlit",
+                "Claude"
+            ],
+            "img": "/assets/voice-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc"
+        },
+        {
+            "title": "Prompt Pro Studio",
+            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
+            "stack": [
+                "LangChain",
+                "RAG",
+                "Supabase"
+            ],
+            "img": "/assets/prompt-pro.png"
+        },
+        {
+            "title": "Smart Agent Orchestrator",
+            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
+            "stack": [
+                "LangChain",
+                "FastAPI",
+                "Redis"
+            ],
+            "img": "/assets/project-agent.png",
+            "link": "https://github.com/catvy/smart-orchestrator"
+        },
+        {
+            "title": "Voice-to-Doc",
+            "description": "Speech-to-text system for meeting transcription and summarization.",
+            "stack": [
+                "Whisper",
+                "Streamlit",
+                "Claude"
+            ],
+            "img": "/assets/voice-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc"
+        },
+        {
+            "title": "Prompt Pro Studio",
+            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
+            "stack": [
+                "LangChain",
+                "RAG",
+                "Supabase"
+            ],
+            "img": "/assets/prompt-pro.png"
+        }
+    ],
+    "about": {
+        "bio": "I'm currently working as an AI Product Owner, helping teams design, prototype and launch GenAI-driven platforms from scratch.",
+        "values": [
+            "Clarity in design, both technical and human",
+            "Building fast but validating early",
+            "LLMs + Agents + Humans > LLM alone"
+        ],
+        "education": [
+            {
+                "degree": "B.S. in Computer Science",
+                "school": "Ho Chi Minh University of Science",
+                "year": "2015–2019"
+            },
+            {
+                "degree": "AI Product Thinking",
+                "school": "Deeplearning.ai / OpenAI Labs",
+                "year": "2022"
+            }
+        ],
+        "interests": [
+            "Product strategy",
+            "Prompt engineering",
+            "AI system design"
+        ]
+    },
+    "contact": {
+        "email": "catvy.ai@gmail.com",
+        "location": "Ho Chi Minh City, Vietnam",
+        "links": {
+            "github": "https://github.com/catvy",
+            "linkedin": "https://linkedin.com/in/catvy"
+        },
+        "note": "You can also leave me a message through the form below ⤵️"
+    }
+}

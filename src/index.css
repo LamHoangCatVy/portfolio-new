@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+    scrollbar-width: 10px;
+    scrollbar-color: pink #1f2937;
+  }
+  
