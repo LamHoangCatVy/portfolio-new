@@ -9,7 +9,7 @@
             "System Designer",
             "LLM Evangelist"
         ],
-        "avatar": "../src/assets/image.png",
+        "avatar": "/image.png",
         "cta": {
             "label": "Explore My Projects →",
             "link": "/projects"
@@ -45,8 +45,8 @@
                 "FastAPI",
                 "Redis"
             ],
-            "img": "/assets/project-agent.png",
-            "link": "https://github.com/catvy/smart-orchestrator"
+            "img": "/smart-orchestrator.png",
+            "link": "https://github.com/catvy/smart-orchestrator.png"
         },
         {
             "title": "Voice-to-Doc",
@@ -56,8 +56,8 @@
                 "Streamlit",
                 "Claude"
             ],
-            "img": "/assets/voice-doc.png",
-            "link": "https://github.com/catvy/voice-to-doc"
+            "img": "/voice-to-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc.png"
         },
         {
             "title": "Prompt Pro Studio",
@@ -67,7 +67,7 @@
                 "RAG",
                 "Supabase"
             ],
-            "img": "/assets/prompt-pro.png"
+            "img": "/prompt-pro.png"
         },
         {
             "title": "Smart Agent Orchestrator",
@@ -77,8 +77,8 @@
                 "FastAPI",
                 "Redis"
             ],
-            "img": "/assets/project-agent.png",
-            "link": "https://github.com/catvy/smart-orchestrator"
+            "img": "/smart-orchestrator.png",
+            "link": "https://github.com/catvy/smart-orchestrator.png"
         },
         {
             "title": "Voice-to-Doc",
@@ -88,8 +88,8 @@
                 "Streamlit",
                 "Claude"
             ],
-            "img": "/assets/voice-doc.png",
-            "link": "https://github.com/catvy/voice-to-doc"
+            "img": "/voice-to-doc.png",
+            "link": "https://github.com/catvy/voice-to-doc.png"
         },
         {
             "title": "Prompt Pro Studio",
@@ -99,71 +99,7 @@
                 "RAG",
                 "Supabase"
             ],
-            "img": "/assets/prompt-pro.png"
-        },
-        {
-            "title": "Smart Agent Orchestrator",
-            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
-            "stack": [
-                "LangChain",
-                "FastAPI",
-                "Redis"
-            ],
-            "img": "/assets/project-agent.png",
-            "link": "https://github.com/catvy/smart-orchestrator"
-        },
-        {
-            "title": "Voice-to-Doc",
-            "description": "Speech-to-text system for meeting transcription and summarization.",
-            "stack": [
-                "Whisper",
-                "Streamlit",
-                "Claude"
-            ],
-            "img": "/assets/voice-doc.png",
-            "link": "https://github.com/catvy/voice-to-doc"
-        },
-        {
-            "title": "Prompt Pro Studio",
-            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
-            "stack": [
-                "LangChain",
-                "RAG",
-                "Supabase"
-            ],
-            "img": "/assets/prompt-pro.png"
-        },
-        {
-            "title": "Smart Agent Orchestrator",
-            "description": "An agent coordination system to orchestrate LangChain + Autogen agents.",
-            "stack": [
-                "LangChain",
-                "FastAPI",
-                "Redis"
-            ],
-            "img": "/assets/project-agent.png",
-            "link": "https://github.com/catvy/smart-orchestrator"
-        },
-        {
-            "title": "Voice-to-Doc",
-            "description": "Speech-to-text system for meeting transcription and summarization.",
-            "stack": [
-                "Whisper",
-                "Streamlit",
-                "Claude"
-            ],
-            "img": "/assets/voice-doc.png",
-            "link": "https://github.com/catvy/voice-to-doc"
-        },
-        {
-            "title": "Prompt Pro Studio",
-            "description": "Prompt experimentation platform for OpenAI, Claude, Cohere with RAG pipeline.",
-            "stack": [
-                "LangChain",
-                "RAG",
-                "Supabase"
-            ],
-            "img": "/assets/prompt-pro.png"
+            "img": "/prompt-pro.png"
         }
     ],
     "about": {

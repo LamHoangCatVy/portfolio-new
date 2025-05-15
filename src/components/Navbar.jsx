@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <aside className="flex flex-col w-full h-full p-6 text-white">
       <div className="flex flex-col items-center mb-10">
-        <img src="../src/assets/image.png" alt="avatar" className="w-16 h-16 rounded-full" />
+        <img src="/image.png" alt="avatar" className="w-16 h-16 rounded-full" />
         <h2 className="mt-4 text-2xl font-bold">Cat Vy</h2>
         <p className="text-sm text-gray-400">AI Product Owner</p>
       </div>
